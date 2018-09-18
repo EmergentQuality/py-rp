@@ -1,0 +1,37 @@
+See also: https://pythontips.com/2013/07/30/20-python-libraries-you-cant-live-without/amp/
+
+* Packages:
+
+  - Behave [[https://pypi.org/project/behave/]],[[https://github.com/behave/behave]]  
+  - Behold [[https://github.com/robdmc/behold]]  
+  - Cython [[http://cython.org/]]  
+  - EbookLib [[https://github.com/aerkalov/ebooklib/]]  
+  - Gooey [[https://github.com/chriskiehl/Gooey]] 
+  - IPython [[https://ipython.org/]], [[https://ipython.readthedocs.io/en/stable/index.html]]  
+  - Neo4j Driver [[neo4j-driver]]  
+  - OpenCV [[https://opencv.org/]]
+  - Pathlib [[https://realpython.com/python-pathlib/]]
+  - Pillow [[https://python-pillow.org/]]  
+  - PyFilesystem [[https://github.com/PyFilesystem/pyfilesystem2]]  
+  - Pygame [[http://pygame.org/]] 
+  - Pypher [[httphttps://github.com/emehrkay/Pypher]] 
+  - Scrapy [[https://scrapy.org/]]  
+  - Selenium [[https://pypi.org/project/selenium/]],[[https://github.com/SeleniumHQ/selenium/]]
+  - Sh [[https://github.com/amoffat/sh]]  
+
+* Data Visualization for Situational Awareness
+
+  - Plotly, Dash [[https://pypi.org/project/plotly/]], [[https://pypi.org/project/dash/]]
+  - Bokeh [[https://pypi.org/project/bokeh/]], [[https://github.com/bokeh/bokeh]]
+  - Seaborn [[https://pypi.org/project/seaborn/]]
+  - Jira [[https://pypi.org/project/jira/]]
+
+* Create better reports
+
+  For AWS, DataDog, etc.
+  - Creating PDF reports with Plotly [[https://plot.ly/python/pdf-reports/]]
+  - Boto3 [[https://pypi.org/project/boto3/]]
+  - Python-docx [[https://github.com/python-openxml/python-docx]]  
+  - xhtml2pdf [[https://pypi.org/project/xhtml2pdf/]]  
+  - WeasyPrint [[https://weasyprint.org/]]
+  - Apache Libcloud [[http://libcloud.apache.org/]], [[https://libcloud.readthedocs.io/en/latest/index.html]]
