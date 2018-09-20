@@ -1,0 +1,82 @@
+
+* UNIT 0 PRE-WORK
+
+  - Gain an introduction to programming and beginning writing pseudocode.
+  - Get acquainted with Python fundamentals.
+
+    
+
+* UNIT 1 PROGRAMMING AND PYTHON FUNDAMENTALS
+
+  - Explore the concept of variables and differentiate between variable types.
+  - Create and re-assign numerical variables using common naming guidelines and numerical operations.
+  - Reassign variables using variables and shorthand assignmewnt operators.
+  - Create string variables, concatenate strings, and print complex structures.
+
+* UNIT 2 CONTROL FLOW
+
+  - Define control flow and describe scenarios in which control flow would be helpful.
+  - Explore logical comparison. Explain different comparison and equality operators and use them to evaluate and compare statements.
+  - Get acquainted with Booleans, use if/elif/else conditionals to control program flow based on Boolean conditions, and use comparison operators in conditionals.
+  - Create and manipulate lists, adding and removing elements and printing out elements/list lengths.
+  - Understand the use of for loops in programming.  Use for loops to iterate lists and range() to dynamically generate loops.
+  - Explain while lopps and their best use cases.  Use while loops to control program flow.
+  - Dive into functions, identifying use case, creating and calling functions, and returning values.
+  - Utilize parameters and arguments in functions.  Implement keyword arguments.
+
+* UNIT 3 OBJECT-ORIENTED PROGRAMMING IN PYTHON FULL-STACK DEVELOPMENT
+
+  - Define object-oriented programming and provide examples of what could be described as an object.
+  - Differentiate between keys and values. Compare and contrast dictionaries and lists.  Use dictionaries to solve common problems in Python.
+  - Distinguish between lists and sets.  Create variables that hold sets.  Use sets to determine the frequency of elements.
+  - Compare and constrast classes and objects.  Define classes.  Instantiate objects from classes.
+  - Explain the use of the __init__ method.  Understand class variables versus instance variables.
+  - Implement inheritance.  Describe what has been inherited from one class to another and when to use inheritance. 
+
+* UNIT 4 COMMON PYTHON TROUBLESHOOTING
+
+  - Define variable scope and explain the order of scope precendence that Python follows when resolving variable names.  Use the global keybord to access global variables.
+  - Understand common types of errors and use print statements to troubleshoot.  Implement the try-except code to handle errors.
+  - Define when floats are created, use escape characters, and perform basic data type conversion.
+
+* UNIT 5 INTERMEDIATE PYTHON
+
+  - Review Python basics covered so far.
+  - Get acquainted with key components of intermediate Python coding, such as scripting, abstraction, modules, and libraries and APIs.
+  - Define the uses of scripting and write scripts that perform file I/O.
+  - Explore code abstraction. Use itertools to implement efficient looping and list comprehensions to concisely create lists.
+  - Add libraries and modules to Python programs.  Create programs utilizing PyTime.  Navigate library documentation.
+  - Describe what an application programming interface (API) is and why we might use one.  Identify common APIs on the web.  Call APIs.
+
+* UNIT 6 INTRODUCTION TO DATA SCIENCE
+
+  - Review Python basics and intermediate skills covered so far.  
+  - Explore how Python is used by data scientists through a case study.
+  - Use Pandas to read in data sets.  Filtyer, sort, and manipulate DataFrames and Series.
+  - Describe why data visualization is important.  Identify the characteristics of a great data visualization.  Identify when you would use bar charts, pie charts, scatterplots, and histograms.
+  - Identify different types of graphs on a given data set using Pandas.
+  - Identify and handle missing values with Pandas.  Implement groupby() statements for specific segmented analysis.  Use apply() functions to clean data with Python.
+
+* SPECIAL TOPIC - INTRODUCTION TO WEB APPLICATIONS
+
+  - Review Python basics and intermediate skills covered so far.
+  - Explore how Python is used by web developers with a case study.
+  - Differentiate between web applications, websites, front-end, and back-end.  Apply basic HTML and CSS.
+  - Define Flask, understand how values are passed between websites and the Flask back end, and create simple Flask websites.
+  - Create routines using Flask.  Pass variables into routes.
+  - Implement simple templates in Flask apps.  Pass variables into templates.
+
+* PYTHON PROJECT
+
+  - Review what's been covered throughout the course.
+  - Choose a project based on your interests and use Python skills to build an application.
+  - Identify ways to keep learning.
+
+
+* OPEN QUESTIONS
+
+[ ] What topics won't be covered
+[ ] Yield vs. return
+[ ] Async, await, asyncio, etc.
+[ ] Generators
+[ ] Decorators
