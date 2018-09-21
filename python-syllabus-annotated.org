@@ -4,8 +4,6 @@
   - Gain an introduction to programming and beginning writing pseudocode.
   - Get acquainted with Python fundamentals.
 
-    
-
 * UNIT 1 PROGRAMMING AND PYTHON FUNDAMENTALS
 
   - Explore the concept of variables and differentiate between variable types.
@@ -80,3 +78,28 @@
 [ ] Async, await, asyncio, etc.
 [ ] Generators
 [ ] Decorators
+[ ] Lambdas
+
+* GENERAL RESOUCES
+
+
+  ** VIDEO
+
+  - My Python playlist: [[https://www.youtube.com/playlist?list=PLJ3MbxvfCs3UF9aoYDvuTXKF3OOVtWPqD]]  
+  - Python Programming playlist: [[]]
+
+  ** BOOKS
+
+  - Python Notes for Professionals [[https://www.dropbox.com/search/personal?path=%2F&preview=PythonNotesForProfessionals.pdf&query=Python&search_session_id=82886349670747725980913121409009&search_token=zm9vlkvgcuOSpBfMEWzgT%2Fx%2FxOcY4a%2BcuDuU5Ndme7Y%3D]]
+  - Python the Complete Manual [[https://www.dropbox.com/home/workspace/logos/New%2010/Python%20Books?preview=329003078-Python-The-Complete-Manual-2nd-Edition-pdf.pdf]]
+  - Functional Programming in Python [[https://www.dropbox.com/home/workspace/logos/New%2010/Python%20Books?preview=Functional+Programming+in+Python.pdf]]  
+  - Mastering Python [[https://www.dropbox.com/home/workspace/logos/New%2010/Python%20Books?preview=Mastering+Python.pdf]]   
+  - Designing Machine Learning Systems with Python [[https://www.dropbox.com/home/workspace/logos/New%2010/Python%20Books?preview=Designing+Machine+Learning+Systems+with+Python.pdf]]  
+  
+
+  ** MISC
+
+  - Python 3 Cheat Sheet [[https://www.dropbox.com/home/workspace/logos/New%2010/Python%20Books?preview=Python+3+Cheat+Sheet.pdf]]  
+
+
+https://github.com/EmergentQuality/py-rp
