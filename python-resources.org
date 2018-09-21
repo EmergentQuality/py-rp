@@ -17,7 +17,8 @@
 
 ** Dropbox
 
-
+  - Intro to Python [[https://www.dropbox.com/preview/public/Books%20%26%20Videos/Intro%20to%20Python]]  
+  - Intermediate Python [[https://www.dropbox.com/home/public/Books%20%26%20Videos/Intermediate%20Python]]
 
 * Tutorial Articles
 
