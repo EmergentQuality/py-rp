@@ -6,7 +6,7 @@
 
 * UNIT 1 PROGRAMMING AND PYTHON FUNDAMENTALS
 
-  - Explore the concept of variables and differentiate between variable types.
+  - Explore the concept of variables and differentiate between variable types.    
   - Create and re-assign numerical variables using common naming guidelines and numerical operations.
   - Reassign variables using variables and shorthand assignmewnt operators.
   - Create string variables, concatenate strings, and print complex structures.
