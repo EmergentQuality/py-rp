@@ -1,0 +1,7 @@
+1. True
+2. True (they require some antecedent conditional, but it need not be 'if.')
+3. False 
+4. True
+5. True
+6. 1,2,4,7,8,9
+7. 2,3,4

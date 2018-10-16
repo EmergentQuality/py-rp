@@ -103,3 +103,17 @@
 
 
 https://github.com/EmergentQuality/py-rp
+
+
+* OOP RESOURCES
+
+  [[https://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0321861272/ref=sr_1_1?ie=UTF8&qid=1539222789&sr=8-1&keywords=the+object-oriented+thought+process]] <== First book I read.
+  [[https://en.wikipedia.org/wiki/Categories_(Aristotle)]]
+  [[https://en.wikipedia.org/wiki/Category_(Kant)]]
+  [[https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53]]
+  [[https://biblia.com/bible/esv/Gen%201]]
+  [[file:///Volumes/drugdev/Private/jeffrey.liss/Research/44744-153465-1-PB.pdf]] <=== !!!!
+  [[https://www.simulation-argument.com/simulation.pdf]]
+  [[https://en.wikipedia.org/wiki/Simulacra_and_Simulation]]
+
+
