@@ -3,7 +3,7 @@ Script which defines a BankAccount class.
 """
 
 
-class BankAccount:
+class BankAccount (object):
 
     """ A standard account and methods to deposit and withdraw funds and to add
     interest.
@@ -61,15 +61,15 @@ class ChildrensAccount(BankAccount):
 
 
 class OverdraftAccount(BankAccount):
-    '''Not really implemented.  Needs business logic and modification to the
-    withdraw() method in the parent class.'''
+    """Not really implemented.  Needs business logic and modification to the
+    withdraw() method in the parent class."""
 
     def __init__(self):
         super().__init__(self)
         self.balance = 40.
 
 
-class BankTransaction:
+class BankTransaction (object):
     def __init__(self, source_account, target_account, transfer_amount=0.,):
         self.source_account = source_account
         self.target_account = target_account
