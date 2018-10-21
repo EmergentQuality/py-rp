@@ -32,7 +32,7 @@ def main():
              'salary': ''}
 
     # Lol... jk, I never used one of these.
-    roladex = [e0001, e0002, e0003, e0004, ]
+    roladex = [e0001, e0002, e0003, e0004, ] 
 
     for d in roladex:
         print(
@@ -40,7 +40,6 @@ def main():
                 d['name'],
                 d['department'],
                 d['phone']))
-
 
 if __name__ == '__main__':
     main()
