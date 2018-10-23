@@ -1,0 +1,2 @@
+this message has been written.
+string in a variable, also written.

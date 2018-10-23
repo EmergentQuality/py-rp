@@ -1,24 +1,35 @@
 """ Jeffrey Liss
 """
-def get_offense():
+
+def set_offense():
     offense = True
+
+def get_offense():
     return offense
 
-
-def get_defense():
+def set_defense():
     defense = True
 
-    def get_rule_changes():
+    def set_rule_changes():
         return True
 
+    def get_rule_changes():
+        return rule_changes
+
     if offense and defense:
+        set_rule_changes()
         return defense, get_rule_changes()
 
+def get_defense():
+    return defense
+
+set_offense()
+set_defense()
 
 offense = get_offense()
-defense, rule_changes = get_defense()
+defense, rule_changes = set_defense()
 
-print("How are the Jags doing?\n")
+print("\nHow are the Jags doing?\n")
 print("We have offense:", offense)
 print("We have defense:", defense)
 print("We have some rule changes:", rule_changes)
