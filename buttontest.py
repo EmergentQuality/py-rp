@@ -7,7 +7,7 @@ class App(QWidget):
 
     def __init__(self):
         super().__init__()
-        self.title = 'PyQt5 Button Test'
+        self.title = 'Decision Announcer'
         self.left = 10
         self.top = 10
         self.width = 320
@@ -18,8 +18,8 @@ class App(QWidget):
         self.setWindowTitle(self.title)
         self.setGeometry(self.left, self.top, self.width, self.height)
 
-        button = QPushButton('PyQt5 button', self)
-        button.setToolTip('This is an example button')
+        button = QPushButton('Go', self)
+        button.setToolTip('Go for Deployment')
         button.move(100,70)
         button.clicked.connect(self.on_click)
 
@@ -27,7 +27,7 @@ class App(QWidget):
 
     @pyqtSlot()
     def on_click(self):
-        print('PyQt5 Button Click!')
+        print('Go for deployment!')
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
